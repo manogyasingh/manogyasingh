@@ -7,5 +7,5 @@ I’m currently learning bash and powershell scripting, Py, JS, C, the art of fi
 I'll be happy to collaborate on projects that involve one or more of those.
 
 Reach me on :
-Instagram, Twitter and Telegram : manogyasinghh
+Instagram, Twitter and Telegram : manogyasinghh,
 email : manogyasinghsuryansh@gmail.com
