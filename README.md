@@ -9,3 +9,4 @@ I'll be happy to collaborate on projects that involve one or more of those.
 Reach me on :
 Instagram, Twitter and Telegram : manogyasinghh,
 email : manogyasinghsuryansh@gmail.com
+(I speak several languages including Hindi, Russian and English.
