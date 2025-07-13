@@ -1,4 +1,4 @@
-#### I'm an Engineering Physics undergrad at IIT Delhi, minoring in CS.
+#### Hii! I'm an Engineering Physics undergrad at IIT Delhi, minoring in CS.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manogyasingh&theme=tokyonight&show=reviews,prs_merged&rank_icon=github&hide=issues,stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manogyasingh&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=Erudite,qrt-hackathon)
