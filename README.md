@@ -10,7 +10,7 @@
  - A Stock Exchange Simulator - https://github.com/manogyasingh/StonkExchange
  - A Multi Agentic Research Engine - https://github.com/manogyasingh/Erudite
  - A Custom Agentic Framework - https://github.com/manogyasingh/the-best-agentic-framework-ever
- - A Wallpaper SettingApp for GNOME - https://github.com/manogyasingh/BetterPaper
+ - A Wallpaper App for GNOME - https://github.com/manogyasingh/BetterPaper
  - AlphaXiv Extension for Firefox - https://github.com/manogyasingh/AlphaXivFirefox
  - DevClub's Website - https://github.com/devclub-iitd/devclub-website
  - A Bot to Play Pokèmon Showdown - https://github.com/manogyasingh/pokepwn
