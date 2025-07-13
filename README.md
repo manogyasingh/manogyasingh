@@ -1,6 +1,8 @@
-# Hii
+## hiii
+ - I'm an Engineering Physics undergrad at IIT Delhi, minoring in CS. I make things I need and upload some of it here. Connect on [LinkedIn](https://www.linkedin.com/in/manogya-singh/)!
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manogyasingh&hide=issues&theme=tokyonight&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manogyasingh&layout=compact&theme=tokyonight)
 
 Some of the things I've  made so far
  - A High-Performance Chat Server - https://github.com/manogyasingh/xtchat
